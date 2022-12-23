@@ -1,6 +1,6 @@
 # Optimizing-Online-Sports-Retail-Revenue
 
-![runner](https://user-images.githubusercontent.com/50262369/209353258-bb1b0db9-0643-4ca4-84fb-95b4d0ed4692.jpeg)
+![sports](https://user-images.githubusercontent.com/50262369/209353882-1ad5cde3-47b1-4e3b-b7b1-a360461da56e.jpeg)
 
 Sports clothing is a booming sector!
 
